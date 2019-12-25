@@ -1,3 +1,4 @@
+#Simple word count
 from pyspark import SparkContext
 
 sc = SparkContext()
